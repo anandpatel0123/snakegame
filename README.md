@@ -1,11 +1,9 @@
-# demo
-
-## com.domain.app.demo
+# Snake Game
 
 ### Getting started
 
 > Before you follow the steps below, make sure you have the
-[Lightning-CLI](https://rdkcentral.github.io/Lightning-CLI/#/) installed _globally_ only your system
+> [Lightning-CLI](https://rdkcentral.github.io/Lightning-CLI/#/) installed _globally_ only your system
 
 ```
 npm install -g @lightningjs/cli
@@ -23,7 +21,7 @@ npm install -g @lightningjs/cli
 
 During development you can use the **watcher** functionality of the _Lightning-CLI_.
 
-- use `lng watch` to automatically _rebuild_ your App whenever you make a change in the `src` or  `static` folder
+- use `lng watch` to automatically _rebuild_ your App whenever you make a change in the `src` or `static` folder
 - use `lng dev` to start the watcher and run a local webserver / open the App in a browser _at the same time_
 
 #### Documentation

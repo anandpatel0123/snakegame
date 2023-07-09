@@ -1,0 +1,17 @@
+{
+  "homepage":"https//anandpatel0123/snakegame",
+  "name": "snake-game",
+  "description": "Snake Game using LightningJS Animations",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.3.2"
+  },
+  "scripts":{
+    "predeploy":"lng build",
+    "deploy":"gh-pages -d build",
+    "build":"lng build"
+
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
