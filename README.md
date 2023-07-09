@@ -1,5 +1,5 @@
 # Snake Game
-
+## Live URL: https://anandpatel0123.github.io/snakegame/
 ### Getting started
 
 > Before you follow the steps below, make sure you have the
