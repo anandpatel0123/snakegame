@@ -1,5 +1,4 @@
 import { Lightning, Utils } from "@lightningjs/sdk";
-import Button from "./button";
 
 export default class App extends Lightning.Component {
   static getFonts() {
