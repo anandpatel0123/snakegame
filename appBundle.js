@@ -3,7 +3,7 @@
  * SDK version: 5.3.2
  * CLI version: 2.11.0
  * 
- * Generated: Sun, 09 Jul 2023 20:11:16 GMT
+ * Generated: Sun, 09 Jul 2023 20:14:18 GMT
  */
 
 var APP_com_snakegame_com = (function () {
